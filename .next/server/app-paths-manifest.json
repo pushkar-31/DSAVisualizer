@@ -1,5 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/(app)/visualizer/page": "app/(app)/visualizer/page.js",
-  "/(app)/visualizer/array/page": "app/(app)/visualizer/array/page.js"
-}
